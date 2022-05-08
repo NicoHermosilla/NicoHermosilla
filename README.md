@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Mi nombre es **NicoHermosilla/NicoHermosilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Mi nombre es **Nicolás Hermosilla**
+Soy estudiante de la carrera ING. EN COMPUTACION 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
